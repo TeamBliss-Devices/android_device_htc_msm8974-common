@@ -310,8 +310,8 @@
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">false</bool>
     <bool name="config_dreamsSupported">true</bool>
     
-    <!-- Doze: force using accelerometer as pick up sensor -->
-    <bool name="config_dozeUseAccelerometer">true</bool>    
+    <!-- Doze: force using accelerometer as pick up sensor
+    <bool name="config_dozeUseAccelerometer">false</bool> -->
     
     <!-- Enable the option to check proximity sensor when deciding whether to
     turn the screen on
